@@ -9,7 +9,7 @@ export default function App() {
   let [pokemon, setPokemon] = useState()
 
   function handleOnclick() {
-    let number = getRandomNumber(1200)
+    let number = getRandomNumber(1100)
     const serverURL = `https://pokeapi.co/api/v2/pokemon/${number}`
     fetch(serverURL)
       .then(response => response.json())
