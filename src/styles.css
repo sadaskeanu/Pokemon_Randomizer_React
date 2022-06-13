@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 90px;
+  background-image: url("https://i.ibb.co/H2hQHJv/df4e8ba28f912bf9cdf9fa0dfc196411.png");
+  background-size: cover;
+}
