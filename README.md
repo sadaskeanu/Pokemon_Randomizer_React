@@ -1,2 +1,3 @@
-# Pokemon_Randomizer_React
-Created with CodeSandbox
+An application that gives you a random Pokemon
+Ui, React
+
